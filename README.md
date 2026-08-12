@@ -1,26 +1,47 @@
-<!--====================================================-->
-<!--               SYSTEM INITIALIZATION                -->
-<!--====================================================-->
+SOPHIA MELO
 
-<div align="center">
+Backend Java Developer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,25:0f172a,50:1f6feb,75:00bcd4,100:00e5ff&text=SOPHIA%20MELO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY="/>
-</div>
+Initializing...
+
+█████████████████████████
+
+ONLINE
+
+Building robust backend solutions.
+
+[Typing Animation]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 👩‍💻 Sobre Mim
+
+```javascript
 const developer = {
 
-    name: "Sophia Melo",
+    nome: "Sophia Melo Teixeira Dias",
 
-    role: "Desenvolvedora Backend",
+    cargo: "Desenvolvedora Backend Java",
 
-    education: [
+    formação: [
 
-        "Estudante de Ciência da Computação",
+        "Ciência da Computação (Em andamento)",
 
         "Técnica em Análise e Desenvolvimento de Sistemas"
 
     ],
 
-    backend: [
+    especialização: [
+
+        "Backend",
+
+        "Java",
+
+        "Banco de Dados"
+
+    ],
+
+    tecnologias: [
 
         "Java",
 
@@ -28,30 +49,55 @@ const developer = {
 
         "Hibernate",
 
-        "MySQL"
+        "MySQL",
+
+        "Git",
+
+        "GitHub",
+
+        "Maven"
 
     ],
 
-    architecture: [
+    fundamentos: [
 
-        "OOP",
+        "Programação Orientada a Objetos",
 
         "SOLID",
 
-        "Clean Code"
+        "Clean Code",
+
+        "Modelagem de Banco de Dados"
 
     ],
 
-    currentlyLearning: [
+    estudando: [
 
         "Spring Boot",
 
-        "REST APIs",
+        "APIs REST",
 
-        "Software Architecture"
+        "Arquitetura de Software"
 
     ],
 
-    goal: "Become a Software Engineer"
+    softSkills: [
+
+        "Resolução de Problemas",
+
+        "Aprendizado Contínuo",
+
+        "Organização",
+
+        "Trabalho em Equipe",
+
+        "Comunicação"
+
+    ],
+
+    objetivo:
+
+        "Construir aplicações backend escaláveis e evoluir continuamente como Engenheira de Software."
 
 }
+```
