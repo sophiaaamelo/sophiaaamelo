@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,25:161b22,50:1f6feb,75:00b4d8,100:00e5ff&text=SOPHIA%20MELO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,25:161b22,50:1f6feb,75:00b4d8,100:00e5ff&text=SOPHIA%20MELO&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38/>
 
 </div>
 
@@ -107,16 +107,6 @@ const developer = {
         "Clean Code",
 
         "Modelagem de Banco de Dados"
-
-    ],
-
-    estudando: [
-
-        "Spring Boot",
-
-        "APIs REST",
-
-        "Arquitetura de Software"
 
     ],
 
